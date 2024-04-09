@@ -10,13 +10,12 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: Using the print function,display the distance between two points
 ### Step 5: End the program
 ### PROGRAM:
-![image](https://github.com/divya280/DISTANCE-BETWEEN-TWO-POINTS/assets/82276099/5907bc2f-30d4-492c-8c96-a75f3f7d7667)
 
   
 
 
 ### OUTPUT:
-![image](https://github.com/divya280/DISTANCE-BETWEEN-TWO-POINTS/assets/82276099/165f90ed-7893-4a27-a902-be45959b38ab)
+
 
 
 ### RESULT:
